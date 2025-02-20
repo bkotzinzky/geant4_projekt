@@ -1,7 +1,7 @@
 1. GEOMETRIA
 Geometria symulacji składa się z trzech objętości: szalki Petriego, warstwy komórek umieszczonych na szalce oraz źródła. W rzeczywistości do napromieniania komórek korzystam ze źródła o bardzo niskiej mocy dawki (ok. 1uSv/h). Źródło to zostało specjalnie stworzone z myślą o tym projekcie. Jest ono wykonane z pokruszonych radioaktywnych łupków, które zostały wymieszane z żywicą epoksydową. Dlatego też zdefiniowana została objętość źródła, z której będą emitowane cząstki.
 
-2. ŹRÓDŁÓ
+2. ŹRÓDŁO
 Do stworzenia źródła korzystam z opcji GPS. Dzięki temu mogłem w łatwy sposób zdefiniować objętość, w której chcę tworzyć cząstki. Dodatkowo, energia cząstek jest wczytywana z pliku spectrum.mac, który odpowiada rzeczywistemu widmu, które zostało zmierzone w SLCJ.
 
 3. OUTPUT
