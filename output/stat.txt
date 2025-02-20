@@ -1,7 +1,7 @@
-Simulation started at: Sat Feb  8 10:57:29 2025
-Simulation ended at: Sat Feb  8 11:09:38 2025
-Elapsed time: 728.858 seconds
-Number of events: 1000000
-Number of hits in cells: 23172
-Absorbed Dose: 2.74087e-08 Gy
-Deposited Energy: 2015.39 MeV
+Simulation started at: Fri Feb 21 00:30:14 2025
+Simulation ended at: Fri Feb 21 00:30:14 2025
+Elapsed time: 0.0489621 seconds
+Number of events: 10
+Number of hits in cells: 0
+Absorbed Dose: 0 Gy
+Deposited Energy: 0 MeV

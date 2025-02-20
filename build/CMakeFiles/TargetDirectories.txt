@@ -1,0 +1,3 @@
+/dmj/fizmed/bkocinski/geant4_projekt/build/CMakeFiles/projekt.dir
+/dmj/fizmed/bkocinski/geant4_projekt/build/CMakeFiles/edit_cache.dir
+/dmj/fizmed/bkocinski/geant4_projekt/build/CMakeFiles/rebuild_cache.dir
